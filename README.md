@@ -1,6 +1,8 @@
 # Arma-3-Unit-Capture-Helper
 A small python script to remove some of the tedium of creating all the files for unit capture
 
+Support for unit_CaptureFiring will be added soon
+
 Usage:
 
 1. Record your unit data with the BIS_fnc_unitCapture function (Example: rec = [unitname,180] spawn BIS_fnc_unitCapture;)

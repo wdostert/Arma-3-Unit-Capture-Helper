@@ -10,4 +10,4 @@ Usage:
 3. Run the script and follow the instructions
 4. Put the created script to play the path in your mission
 
-It is reccomended to delete the script when you are finished making your mission.
+It is recommended to delete the script when you are finished making your mission.
